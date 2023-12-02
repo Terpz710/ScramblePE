@@ -1,0 +1,6 @@
+name: ScramblePE
+version: 1.0.0
+author: Terpz710
+api: [4.0.0, 5.0.0]
+main: Terpz710\ScramblePE\Main
+description: Add scramble to your MCBE server
